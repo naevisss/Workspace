@@ -1,30 +1,30 @@
 # PENSAMENTO COMPUTACIONAL
 Baseado em 4 pilares 
-*decomposicao
-*reconhecimento de padroes
-*abstracao
-*design de algoritimos
---> processo continuo 
+* decomposicao
+* reconhecimento de padroes
+* abstracao
+* design de algoritimos
+> processo continuo 
 
 ..> contexto> teste> analise>..
 
---> competencias
-*pensamento sistematico
-*colaboracao dentro da equipe 
-*facilitador
-*criatividade e design 
+> competencias
+* pensamento sistematico
+* colaboracao dentro da equipe 
+* facilitador
+* criatividade e design 
 
 --> habilidades complementares
 *raciocinio logico
  
 --> padroes
-*representacao de atributos
-*aprendizado - conceito associado ao objeto 
-*armazenar dados 
-*regras de decisao 
+* representacao de atributos
+* aprendizado - conceito associado ao objeto 
+* armazenar dados 
+* regras de decisao 
 
 --> abstracao
-*processo intelectual de isolamento
+*C processo intelectual de isolamento
 
 --> algoritimos
 como construir um algoritimo (step-by-step)
@@ -46,3 +46,7 @@ ex: algoritimo de multiplicacao de dois numeros
        --> FIM
 
 ----> INTRODUCAO A LOGICA DE PROGRAMACAO 
+###### Tecnicas 
+* Linear: execução sequenciada, em uma única dimensão 
+* Estruturada: disposição e ordem dos elementos essenciais que compõem um corpo concreto ou abstrato 
+* Modular: partes independentes controladas por um conjunto de regras
