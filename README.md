@@ -1,6 +1,6 @@
 # Workspace
 
-_ Seja bem vindo ao workspace! Repositório criado exclusivamente para todos as atividas de Emma :)
+_Seja bem vindo ao workspace! Repositório criado exclusivamente para todos as atividas de Emma :)
 
 ##### Aqui você encontrará:
 * Santander-code-girls: pasta dedicada ao projeto da DIO em conjunto com o Santander Becas
